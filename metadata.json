@@ -1,0 +1,5 @@
+{
+  "name": "SEO Content Analyzer",
+  "description": "An application to compare two versions of text content and determine which is better for SEO using the Gemini API. It provides a detailed analysis and recommendations for improvement.",
+  "requestFramePermissions": []
+}
